@@ -8,7 +8,7 @@ OpenCV 프로그래밍에 필요한 모던 C++ 문법을 설명합니다.
 | :-- | :-------- | :-------- | :-------- |
 | 1   | 연산자 오버로딩 | operator / operator_ex | [[Youtube]](https://youtu.be/vOxIJLGl_xo) |
 | 2   | std::vector 클래스 | vector | [[Youtube]](https://youtu.be/6Qba8vfg2AI) |
-| 3   | 범위 기반 fo | rangedfor | [[Youtube]](https://youtu.be/M3BBJTfWkgM) |
+| 3   | 범위 기반 for | rangedfor | [[Youtube]](https://youtu.be/M3BBJTfWkgM) |
 | 4   | std::sort() 함수 | sorting | [[Youtube]](https://youtu.be/9j4y1EhsOf0) |
 | 5   | 람다 표현식 | lambda / lambda_ex | [[Youtube]](https://youtu.be/faKvuQFBHE4) |
 | 6   | 스마트 포인터 | smartptr / smartptr_ex | Not Ready |
