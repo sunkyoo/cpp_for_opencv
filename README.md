@@ -15,7 +15,7 @@ OpenCV 프로그래밍에 필요한 모던 C++ 문법을 설명합니다.
 
 ## 강의 자료
 
-[OpenCV 프로그래밍을 위한 모던 C++.pdf](./OpenCV&nbsp;프로그래밍을&nbsp;위한&nbsp;모던&nbsp;C&#43;&#43;.pdf)
+[OpenCV 프로그래밍을 위한 모던 C++.pdf](./OpenCV%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%AA%A8%EB%8D%98%20C%2B%2B.pdf)
 
 ## 동영상 강의 목록
 
