@@ -39,9 +39,9 @@ int main()
 
 	{
 		Ptr<Rect> p = new Rect;
-		p->draw();
+		p->draw();	// Compiler thinks it as (p.operator->())->draw();
 
-		//Ptr<Rect> p2 = p;
+		//Ptr<Rect> p2 = p; // error!
 	}
 
 	cout << endl;
